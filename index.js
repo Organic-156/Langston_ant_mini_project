@@ -4,7 +4,7 @@ const CELL_SIZE = 30;
 const GRID_COLOR = "#BBBBBB";
 const WHITE_COLOR = "#F8F8F8";
 const BLACK_COLOR = "#333333";
-const ANT_COLOR = "#FF4500";
+const ANT_COLOR = "#800020";
 const TRANSITION_DURATION = 200; // Transition duration in milliseconds
 
 let wasm;
